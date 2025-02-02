@@ -1,4 +1,6 @@
+let naam=prompt("please enter your name: ");
 let choice;
+
 do{
 
     let obj={
@@ -83,3 +85,4 @@ do{
     
     
 }while(choice==true);
+alert(`thanku ${naam} for visiting this website created by Mr Shan`);
